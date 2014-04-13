@@ -1,0 +1,25 @@
+body > .container, 
+body > .well > .container {
+	margin-top: 1.5em;
+}
+
+body > .well {
+	background: #fff;
+}
+
+body > .well, 
+body > .jumbotron, 
+.landing {
+	margin-bottom: 0;
+}
+
+.bg-dark {
+	background-color: #34302d;
+	color: #fff;
+}
+
+.plus {
+	font-size: 4em;
+	text-align: center;
+	padding-top: 0.5em;
+}
